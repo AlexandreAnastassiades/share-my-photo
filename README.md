@@ -53,7 +53,8 @@ create table app.comment
             on update cascade on delete cascade
 );
 ```
-
+## Vidéo
+![Architecture diagram](share_my_photo_alexandre_anastassiades.mp4)
 ## Captures
 ![Acceuil](Captures/accueil.png)
 ![Photo](Captures/photo.png)
